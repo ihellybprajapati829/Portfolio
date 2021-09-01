@@ -155,6 +155,7 @@ p {
 /*************** Show menu ***************/
 .show {
   right: 0;
+  transition: 0.5s ease;
 }
 
 /********* Active menu in Phn View *************/
