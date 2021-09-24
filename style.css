@@ -405,6 +405,9 @@ p {
   grid-gap: 25px;
   padding: 20px 20px 20px 25px;
 }
+#projects #frow {
+  width: 30vw;
+}
 .container .box {
   position: relative;
   height: 380px;
@@ -464,11 +467,14 @@ p {
 
 @media (max-width: 768px) {
   #projects {
-    height: 200vh;
+    height: 300vh;
   }
   #projects .container {
     width: 100vw;
     padding: 9.5%;
+  }
+  #projects #frow {
+    width: 100vw;
   }
   .container .box {
     position: relative;
