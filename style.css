@@ -467,7 +467,7 @@ p {
 
 @media (max-width: 768px) {
   #projects {
-    height: 300vh;
+    height: 600vh;
   }
   #projects .container {
     width: 100vw;
@@ -510,7 +510,7 @@ p {
     align-items: center;
   }
   #contact {
-    height: 300vh;
+    height: 100vh;
   }
   .contact__subtitle {
     font-size: 16px;
