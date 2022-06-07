@@ -467,7 +467,7 @@ p {
 
 @media (max-width: 768px) {
   #projects {
-    height: 500vh;
+    height: 400vh;
   }
   #projects .container {
     width: 100vw;
